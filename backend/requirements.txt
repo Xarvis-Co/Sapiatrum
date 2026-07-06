@@ -1,0 +1,9 @@
+fastapi
+uvicorn[standard]
+python-dotenv
+firebase-admin
+anthropic
+openai
+google-genai>=1.71.1
+vertexai>=1.71.1
+AzureOpenAI
